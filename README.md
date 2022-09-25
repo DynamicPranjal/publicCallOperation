@@ -12,5 +12,5 @@ Applications in Public Call Operation:
 * Auto-Complete
 
 Advantages:
-It can be insert faster and search the string than hash tables and binary search trees.
-It provides an alphabetical filter of entries by the key of the node.
+* It can be insert faster and search the string than hash tables and binary search trees.
+* It provides an alphabetical filter of entries by the key of the node.
