@@ -2,12 +2,12 @@ The word "Trie" is an excerpt from the word "retrieval". Trie is a sorted tree-b
 
 Trie is also known as the digital tree or prefix tree. The position of a node in the Trie determines the key with which that node is connected.
 
-Three operations in Public Call Operations:
+Three operations in Public Call Operation:
 * Insertion of a node
 * Searching a node
 * Deletion of a node
 
-Applications in Public Call Operations:
+Applications in Public Call Operation:
 * Spell Checker
 * Auto-Complete
 
